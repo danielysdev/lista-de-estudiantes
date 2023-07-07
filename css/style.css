@@ -1,6 +1,6 @@
-@import "/header.css";
-@import "/main.css";
-@import "/footer.css";
+@import "./header.css";
+@import "./main.css";
+@import "./footer.css";
 
 :root{
     --naranja: #F3AA60;
