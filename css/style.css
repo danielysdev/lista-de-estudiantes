@@ -1,0 +1,24 @@
+@import "/css/header.css";
+@import "/css/main.css";
+@import "/css/footer.css";
+
+:root{
+    --naranja: #F3AA60;
+    --font: system-ui;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}   
+
+body{
+    background-color: var(--naranja);
+    margin: 0;
+    padding: 0;
+    font-family: var(--font);
+}
