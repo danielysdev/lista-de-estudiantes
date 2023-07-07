@@ -19,6 +19,6 @@ html{
 body{
     background-color: var(--naranja);
     margin: 0;
-    padding: 0;
+    padding: 50px;
     font-family: var(--font);
 }
