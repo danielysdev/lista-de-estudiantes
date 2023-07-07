@@ -1,0 +1,25 @@
+.mein{
+   color: var(--blue);
+}
+
+.main-parrafo{
+    margin: 40px;
+    text-align: center;
+    color: var(--white);
+}
+
+.main-parrafo-2{
+    font-size: 30px;
+}
+
+.list{
+    background-color: var(--white);
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    padding-top: 40px;
+}
+
+.title-list{
+    margin-left: 41%;
+}

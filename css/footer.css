@@ -1,0 +1,10 @@
+.footer{
+    margin: 10px;
+    text-align: right;
+
+}
+
+.footer-parrafo{
+    color: var(--white);
+    font-size: 20px;
+}

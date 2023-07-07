@@ -1,25 +1,27 @@
-header{
-    margin: 10px 20px;
-    padding: 10px 20px;
-    border: 5px solid red;
-    display: grid;
-    grid-template-columns: 30% 70%;
+.header{
+    margin: 10px 25px;
+    padding: 30px 20px;
+    
+    display:flex;
+    justify-content: stretch;
+
 }
 
-header-contein-img{
-    
-   
+.header-contein-img{
+
 }
 
-header-contein{
-    
-    
+.header-contein{
+    display:flex;
+    justify-content: space-between;
+    margin-left: 40px;
 }
 
-header-parrafo-1{
+.header-parrafo-1{
     text-align: center;
     justify-content: center;
     padding-top: 40px;
     align-items: center;
-    
+    color: var(--white);  
+    font-size: 40px;
 }

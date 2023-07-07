@@ -4,6 +4,9 @@
 
 :root{
     --naranja: #F3AA60;
+    --white: #FFFEC4;
+    --blue: #1D5B79;
+    --black: #001C30;
     --font: system-ui;
 }
 
@@ -12,12 +15,9 @@
     box-sizing: border-box;
 }
 
-html{
-    scroll-behavior: smooth;
-}   
 
 body{
-    background-color: var(--naranja);
+    background-color: var(--black);
     margin: 0;
     padding: 50px;
     font-family: var(--font);
