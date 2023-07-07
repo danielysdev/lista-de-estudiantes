@@ -23,7 +23,8 @@
 @media (max-width:780px){
     .header{
         margin: 10px 25px;
-        padding: 30px 20px;
+        margin: auto;
+        padding: 0;
         display: flex;
         flex-wrap:nowrap;
         align-items: center;
@@ -31,6 +32,7 @@
         
     }
     .header-contein-img{
+        padding: 30px 20px;
         display: flex;
          text-align: center;
         flex-direction: column;
@@ -46,8 +48,9 @@
     }
     
     .header-parrafo-1{
+        padding: 0;
         display: flex;
-        flex-wrap: wrap;
+        text-align: right;
         color: var(--white);  
         font-size: 40px;
     }
